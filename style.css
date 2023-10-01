@@ -1,0 +1,22 @@
+body{
+   background-size: cover;
+}
+h1{
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+button{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: darkseagreen;
+   background-color: rgb(204, 231, 254);
+   font-size: 30px;
+}
+
+canvas{
+    margin: 30px;
+    box-shadow: 12px 12px 2px 1px rgb(143, 143, 234);
+    border-color: rgb(255, 241, 214);
+    background-color: lightseagreen;
+   padding: 50px;
+}
